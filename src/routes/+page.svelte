@@ -28,5 +28,62 @@
  </div>
 </main>
  
-
+<style>
+  main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .calculator {
+    background-color: rgb(28, 28, 28);
+    width: 240px;
+    padding: 15px;
+    border-radius: 7px;
+  }
+  .digits {
+    display: flex;
+  }
+  .operations {
+    display: flex;
+    flex-direction: column;
+  }
+  .numbers {
+    display: flex;
+    flex-wrap: wrap;
+    width: 200px;
+  }
+  .btn {
+    width: 50px;
+    height: 50px;
+    border-radius: 100px;
+    background-color: rgb(114, 113, 113);
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    margin: 5px;
+    border: none;
+  }
+  .btn-lg {
+    width: 110px;
+  }
+  .btn-orange {
+    background-color: orange;
+  }
+  .btn-silver {
+    background-color: silver;
+  }
+  .btn-xlg {
+    width: 170px;
+  }
+  .results {
+    height: 60px;
+    color: white;
+    font-size: 50px;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-right: 10px;
+  }
+</style>
 
