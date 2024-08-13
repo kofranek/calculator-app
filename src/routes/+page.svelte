@@ -3,25 +3,25 @@
   <div class="results">
     <div class="digits">
       <div class="numbers">
-        <button> C </button> 
-        <button> 1 </button> 
-        <button> 2 </button> 
-        <button> 3 </button> 
-        <button> 4 </button> 
-        <button> 5 </button> 
-        <button> 6 </button> 
-        <button> 7 </button> 
-        <button> 8 </button> 
-        <button> 9 </button> 
-        <button> 0 </button> 
-        <button> . </button> 
+        <button class="btn"> C </button> 
+        <button class="btn"> 1 </button> 
+        <button class="btn"> 2 </button> 
+        <button class="btn"> 3 </button> 
+        <button class="btn"> 4 </button> 
+        <button class="btn"> 5 </button> 
+        <button class="btn"> 6 </button> 
+        <button class="btn"> 7 </button> 
+        <button class="btn"> 8 </button> 
+        <button class="btn"> 9 </button> 
+        <button class="btn"> 0 </button> 
+        <button class="btn"> . </button> 
       </div>
       <div class="operations">
-        <button> / </button>
-        <button> x </button>
-        <button> + </button>
-        <button> - </button>
-        <button> = </button>
+        <button class="btn"> / </button>
+        <button class="btn"> x </button>
+        <button class="btn"> + </button>
+        <button class="btn"> - </button>
+        <button class="btn"> = </button>
       </div>
     </div>
   </div>
